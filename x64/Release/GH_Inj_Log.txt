@@ -1,0 +1,120 @@
+27-12-2020 04:36:32
+Version          : 3.3
+File             : 
+Target           : (nullptr)
+Target PID       : 0
+Injectionmode    : 0
+Launchmethod     : 0
+Platform         : wow64
+Flags            : 0x00000000
+Errorcode        : 0x00000010
+Win32Error       : 0x00000000
+
+27-12-2020 04:36:47
+Version          : 3.3
+File             : 
+Target           : (nullptr)
+Target PID       : 0
+Injectionmode    : 0
+Launchmethod     : 0
+Platform         : wow64
+Flags            : 0x00000000
+Errorcode        : 0x00000010
+Win32Error       : 0x00000000
+
+27-12-2020 04:37:23
+Version          : 3.3
+File             : 
+Target           : (nullptr)
+Target PID       : 0
+Injectionmode    : 0
+Launchmethod     : 0
+Platform         : wow64
+Flags            : 0x00000000
+Errorcode        : 0x00000010
+Win32Error       : 0x00000000
+
+27-12-2020 04:37:40
+Version          : 3.3
+File             : 
+Target           : (nullptr)
+Target PID       : 0
+Injectionmode    : 0
+Launchmethod     : 0
+Platform         : wow64
+Flags            : 0x00000000
+Errorcode        : 0x00000010
+Win32Error       : 0x00000000
+
+27-12-2020 04:39:05
+Version          : 3.3
+File             : 
+Target           : (nullptr)
+Target PID       : 0
+Injectionmode    : 0
+Launchmethod     : 0
+Platform         : wow64
+Flags            : 0x00000000
+Errorcode        : 0x00000010
+Win32Error       : 0x00000000
+
+27-12-2020 04:40:04
+Version          : 3.3
+File             : 
+Target           : (nullptr)
+Target PID       : 0
+Injectionmode    : 0
+Launchmethod     : 0
+Platform         : wow64
+Flags            : 0x00000000
+Errorcode        : 0x00000010
+Win32Error       : 0x00000000
+
+27-12-2020 04:40:11
+Version          : 3.3
+File             : 
+Target           : (nullptr)
+Target PID       : 0
+Injectionmode    : 0
+Launchmethod     : 0
+Platform         : wow64
+Flags            : 0x00000000
+Errorcode        : 0x00000010
+Win32Error       : 0x00000000
+
+27-12-2020 04:43:45
+Version          : 3.3
+File             : _.dll
+Target           : (nullptr)
+Target PID       : 2
+Injectionmode    : 0
+Launchmethod     : 13
+Platform         : wow64
+Flags            : 0x00000000
+Errorcode        : 0x00000002
+Win32Error       : 0x00000002
+
+27-12-2020 04:46:11
+Version          : 3.3
+File             : test_.dll
+Target           : (nullptr)
+Target PID       : 0
+Injectionmode    : 2
+Launchmethod     : 0
+Platform         : wow64
+Flags            : 0x0000000D
+Errorcode        : 0x00000010
+Win32Error       : 0x00000000
+
+27-12-2020 05:01:42
+Version          : 3.3
+File             : test.dll
+Target           : (nullptr)
+Target PID       : 10004
+Injectionmode    : 2
+Launchmethod     : 0
+Platform         : wow64
+Flags            : 0x0000000D
+Errorcode        : 0x00000002
+Win32Error       : 0x00000002
+
