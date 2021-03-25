@@ -1,1 +1,1 @@
-# dll injector x64, x86 bit
+# dll injector x64, x86
